@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aviv</h1>
-<h3 align="center">A front-end developer, passionate about creating user centered platforms with top notch UI design</h3>
+<h1 align="left">Hi 👋, I'm Aviv</h1>
+<h3 align="left">A front-end developer, passionate about creating user centered platforms with top notch UI design</h3>
 
 - 🔭 I’m currently working on **Go Code Shop - an ecommerce website**
 
