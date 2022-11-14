@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aviv</h1>
 <h3 align="center">A front-end developer, passionate about creating user centered platforms with top notch UI design</h3>
 
-- 🔭 I’m currently working on **Go Code Shop**
+- 🔭 I’m currently working on **Go Code Shop - an ecommerce website**
 
-- 🌱 I’m currently learning **Creating animations and creative UI elements**
+- 🌱 I’m currently learning **How to create animations and creative UI elements**
 
 - 📫 How to reach me **avivcohenbs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/avivcohenbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/avivcohenbs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avivcohenbs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/avivcohenbs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
